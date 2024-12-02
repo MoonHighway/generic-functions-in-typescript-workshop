@@ -57,6 +57,6 @@ There are coding exercises throughout this workshop. To make sure you're ready:
 
 You're now ready to get started! 🚀
 
-## TODO: Slides
+## Slides
 
 **[View the slides for this class](https://slides.com/moonhighway/generic-functions)**
