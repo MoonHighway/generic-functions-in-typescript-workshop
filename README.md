@@ -59,4 +59,4 @@ You're now ready to get started! 🚀
 
 ## TODO: Slides
 
-**[View the slides for this class](https://slides.com/moonhighway/TODO/)**
+**[View the slides for this class](https://slides.com/moonhighway/generic-functions)**
